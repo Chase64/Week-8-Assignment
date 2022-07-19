@@ -1,0 +1,41 @@
+h1 {
+    background-color: rgb(255, 179, 179);
+
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: rgb(247, 85, 255);
+
+    color: rgb(139, 97, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+}
+
+#para1 {
+    background-color: rgb(179, 255, 185);
+
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: rgb(247, 85, 255);
+    
+    color: rgb(139, 97, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.class {
+    background-color: rgb(189, 179, 255);
+        
+    border: 5px;
+    border-style: ridge;
+    border-radius: 10px;
+    border-color: rgb(247, 85, 255);
+        
+    color: rgb(139, 97, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+}
